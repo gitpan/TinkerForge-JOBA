@@ -1,0 +1,14 @@
+IPConnection *					T_PTR
+Device *    					T_PTR
+Master *                        T_PTR
+Temperature *                   T_PTR
+AmbientLight *                  T_PTR
+RotaryPoti *                    T_PTR
+DistanceIR *                    T_PTR
+Voltage *                       T_PTR
+TemperatureIR *                 T_PTR
+Humidity *                      T_PTR
+uint8_t                         T_UV
+uint16_t                        T_UV
+uint32_t                        T_UV
+int16_t                         T_IV
